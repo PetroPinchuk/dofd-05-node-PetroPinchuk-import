@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'Add your build command here'"
+    "build": "echo 'Add your build command'"
   },
   "keywords": [],
   "author": "",
